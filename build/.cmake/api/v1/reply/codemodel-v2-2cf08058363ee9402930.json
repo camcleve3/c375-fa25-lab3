@@ -1,0 +1,195 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "os_lab",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ch10_pool::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ch10_pool-Debug-f5eadcf2159cf0a3964c.json",
+					"name" : "ch10_pool",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ch1_single_fork::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ch1_single_fork-Debug-f9f70a3814fb01b6939f.json",
+					"name" : "ch1_single_fork",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ch2_multi_fork::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ch2_multi_fork-Debug-72b7c3b911a319dbf5dd.json",
+					"name" : "ch2_multi_fork",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ch3_exec_ls::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ch3_exec_ls-Debug-852539e5e0fdce81348c.json",
+					"name" : "ch3_exec_ls",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ch4_exec_worker::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ch4_exec_worker-Debug-d7206737c055b3aab54a.json",
+					"name" : "ch4_exec_worker",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ch5_exec_examples::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ch5_exec_examples-Debug-adc9d59013b82a7df65d.json",
+					"name" : "ch5_exec_examples",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ch6_pipe_sum::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ch6_pipe_sum-Debug-dacc2d884fbcd4e1dcbb.json",
+					"name" : "ch6_pipe_sum",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ch7_pipeline::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ch7_pipeline-Debug-c290a1c2ca7734b13383.json",
+					"name" : "ch7_pipeline",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ch8_wait_nonblock::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ch8_wait_nonblock-Debug-ba8b991e6d1ca6f342b5.json",
+					"name" : "ch8_wait_nonblock",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ch9_zombie::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ch9_zombie-Debug-a0f930089dbeae1481e4.json",
+					"name" : "ch9_zombie",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "exec_demo::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-exec_demo-Debug-31cd77e687307b1fbe15.json",
+					"name" : "exec_demo",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "fork_demo::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-fork_demo-Debug-4cf3e237e1773b6ffb6b.json",
+					"name" : "fork_demo",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "pipe_demo::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-pipe_demo-Debug-b44cb76fea036f272f0e.json",
+					"name" : "pipe_demo",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "pipeline_demo::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-pipeline_demo-Debug-4f567ea08891d3269c94.json",
+					"name" : "pipeline_demo",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "worker::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-worker-Debug-e767c366dda10758667d.json",
+					"name" : "worker",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "zombie_demo::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-zombie_demo-Debug-6bbf121e2003723da815.json",
+					"name" : "zombie_demo",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/workspaces/c375-fa25-lab3/build",
+		"source" : "/workspaces/c375-fa25-lab3"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

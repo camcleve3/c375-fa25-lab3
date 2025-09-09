@@ -1,0 +1,98 @@
+[
+{
+  "directory": "/workspaces/c375-fa25-lab3/build",
+  "command": "/usr/bin/gcc   -g -std=gnu11 -o CMakeFiles/fork_demo.dir/src/fork_demo.c.o -c /workspaces/c375-fa25-lab3/src/fork_demo.c",
+  "file": "/workspaces/c375-fa25-lab3/src/fork_demo.c",
+  "output": "CMakeFiles/fork_demo.dir/src/fork_demo.c.o"
+},
+{
+  "directory": "/workspaces/c375-fa25-lab3/build",
+  "command": "/usr/bin/gcc   -g -std=gnu11 -o CMakeFiles/exec_demo.dir/src/exec_demo.c.o -c /workspaces/c375-fa25-lab3/src/exec_demo.c",
+  "file": "/workspaces/c375-fa25-lab3/src/exec_demo.c",
+  "output": "CMakeFiles/exec_demo.dir/src/exec_demo.c.o"
+},
+{
+  "directory": "/workspaces/c375-fa25-lab3/build",
+  "command": "/usr/bin/gcc   -g -std=gnu11 -o CMakeFiles/pipe_demo.dir/src/pipe_demo.c.o -c /workspaces/c375-fa25-lab3/src/pipe_demo.c",
+  "file": "/workspaces/c375-fa25-lab3/src/pipe_demo.c",
+  "output": "CMakeFiles/pipe_demo.dir/src/pipe_demo.c.o"
+},
+{
+  "directory": "/workspaces/c375-fa25-lab3/build",
+  "command": "/usr/bin/gcc   -g -std=gnu11 -o CMakeFiles/pipeline_demo.dir/src/pipeline_demo.c.o -c /workspaces/c375-fa25-lab3/src/pipeline_demo.c",
+  "file": "/workspaces/c375-fa25-lab3/src/pipeline_demo.c",
+  "output": "CMakeFiles/pipeline_demo.dir/src/pipeline_demo.c.o"
+},
+{
+  "directory": "/workspaces/c375-fa25-lab3/build",
+  "command": "/usr/bin/gcc   -g -std=gnu11 -o CMakeFiles/zombie_demo.dir/src/zombie_demo.c.o -c /workspaces/c375-fa25-lab3/src/zombie_demo.c",
+  "file": "/workspaces/c375-fa25-lab3/src/zombie_demo.c",
+  "output": "CMakeFiles/zombie_demo.dir/src/zombie_demo.c.o"
+},
+{
+  "directory": "/workspaces/c375-fa25-lab3/build",
+  "command": "/usr/bin/gcc   -g -std=gnu11 -o CMakeFiles/ch1_single_fork.dir/challenges/ch1_single_fork.c.o -c /workspaces/c375-fa25-lab3/challenges/ch1_single_fork.c",
+  "file": "/workspaces/c375-fa25-lab3/challenges/ch1_single_fork.c",
+  "output": "CMakeFiles/ch1_single_fork.dir/challenges/ch1_single_fork.c.o"
+},
+{
+  "directory": "/workspaces/c375-fa25-lab3/build",
+  "command": "/usr/bin/gcc   -g -std=gnu11 -o CMakeFiles/ch2_multi_fork.dir/challenges/ch2_multi_fork.c.o -c /workspaces/c375-fa25-lab3/challenges/ch2_multi_fork.c",
+  "file": "/workspaces/c375-fa25-lab3/challenges/ch2_multi_fork.c",
+  "output": "CMakeFiles/ch2_multi_fork.dir/challenges/ch2_multi_fork.c.o"
+},
+{
+  "directory": "/workspaces/c375-fa25-lab3/build",
+  "command": "/usr/bin/gcc   -g -std=gnu11 -o CMakeFiles/ch3_exec_ls.dir/challenges/ch3_exec_ls.c.o -c /workspaces/c375-fa25-lab3/challenges/ch3_exec_ls.c",
+  "file": "/workspaces/c375-fa25-lab3/challenges/ch3_exec_ls.c",
+  "output": "CMakeFiles/ch3_exec_ls.dir/challenges/ch3_exec_ls.c.o"
+},
+{
+  "directory": "/workspaces/c375-fa25-lab3/build",
+  "command": "/usr/bin/gcc   -g -std=gnu11 -o CMakeFiles/worker.dir/challenges/worker.c.o -c /workspaces/c375-fa25-lab3/challenges/worker.c",
+  "file": "/workspaces/c375-fa25-lab3/challenges/worker.c",
+  "output": "CMakeFiles/worker.dir/challenges/worker.c.o"
+},
+{
+  "directory": "/workspaces/c375-fa25-lab3/build",
+  "command": "/usr/bin/gcc   -g -std=gnu11 -o CMakeFiles/ch4_exec_worker.dir/challenges/ch4_exec_worker.c.o -c /workspaces/c375-fa25-lab3/challenges/ch4_exec_worker.c",
+  "file": "/workspaces/c375-fa25-lab3/challenges/ch4_exec_worker.c",
+  "output": "CMakeFiles/ch4_exec_worker.dir/challenges/ch4_exec_worker.c.o"
+},
+{
+  "directory": "/workspaces/c375-fa25-lab3/build",
+  "command": "/usr/bin/gcc   -g -std=gnu11 -o CMakeFiles/ch5_exec_examples.dir/challenges/ch5_exec_examples.c.o -c /workspaces/c375-fa25-lab3/challenges/ch5_exec_examples.c",
+  "file": "/workspaces/c375-fa25-lab3/challenges/ch5_exec_examples.c",
+  "output": "CMakeFiles/ch5_exec_examples.dir/challenges/ch5_exec_examples.c.o"
+},
+{
+  "directory": "/workspaces/c375-fa25-lab3/build",
+  "command": "/usr/bin/gcc   -g -std=gnu11 -o CMakeFiles/ch6_pipe_sum.dir/challenges/ch6_pipe_sum.c.o -c /workspaces/c375-fa25-lab3/challenges/ch6_pipe_sum.c",
+  "file": "/workspaces/c375-fa25-lab3/challenges/ch6_pipe_sum.c",
+  "output": "CMakeFiles/ch6_pipe_sum.dir/challenges/ch6_pipe_sum.c.o"
+},
+{
+  "directory": "/workspaces/c375-fa25-lab3/build",
+  "command": "/usr/bin/gcc   -g -std=gnu11 -o CMakeFiles/ch7_pipeline.dir/challenges/ch7_pipeline.c.o -c /workspaces/c375-fa25-lab3/challenges/ch7_pipeline.c",
+  "file": "/workspaces/c375-fa25-lab3/challenges/ch7_pipeline.c",
+  "output": "CMakeFiles/ch7_pipeline.dir/challenges/ch7_pipeline.c.o"
+},
+{
+  "directory": "/workspaces/c375-fa25-lab3/build",
+  "command": "/usr/bin/gcc   -g -std=gnu11 -o CMakeFiles/ch8_wait_nonblock.dir/challenges/ch8_wait_nonblock.c.o -c /workspaces/c375-fa25-lab3/challenges/ch8_wait_nonblock.c",
+  "file": "/workspaces/c375-fa25-lab3/challenges/ch8_wait_nonblock.c",
+  "output": "CMakeFiles/ch8_wait_nonblock.dir/challenges/ch8_wait_nonblock.c.o"
+},
+{
+  "directory": "/workspaces/c375-fa25-lab3/build",
+  "command": "/usr/bin/gcc   -g -std=gnu11 -o CMakeFiles/ch9_zombie.dir/challenges/ch9_zombie.c.o -c /workspaces/c375-fa25-lab3/challenges/ch9_zombie.c",
+  "file": "/workspaces/c375-fa25-lab3/challenges/ch9_zombie.c",
+  "output": "CMakeFiles/ch9_zombie.dir/challenges/ch9_zombie.c.o"
+},
+{
+  "directory": "/workspaces/c375-fa25-lab3/build",
+  "command": "/usr/bin/gcc   -g -std=gnu11 -o CMakeFiles/ch10_pool.dir/challenges/ch10_pool.c.o -c /workspaces/c375-fa25-lab3/challenges/ch10_pool.c",
+  "file": "/workspaces/c375-fa25-lab3/challenges/ch10_pool.c",
+  "output": "CMakeFiles/ch10_pool.dir/challenges/ch10_pool.c.o"
+}
+]

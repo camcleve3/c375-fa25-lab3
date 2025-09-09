@@ -1,0 +1,1 @@
+/usr/bin/gcc -g CMakeFiles/ch2_multi_fork.dir/challenges/ch2_multi_fork.c.o -o ch2_multi_fork 
